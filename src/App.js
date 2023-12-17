@@ -6,6 +6,7 @@ import LoadingBar from 'react-top-loading-bar';
 
 export default class App extends Component {
   //c='Ujjawal';
+  // Updated 17th Dec 2023
   state = {
     progress:0
   }
